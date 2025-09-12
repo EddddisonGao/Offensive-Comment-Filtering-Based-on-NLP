@@ -1,0 +1,2 @@
+In this work, we present an offensive comment filtering system that combines multi-label classification with a toxicity scoring mechanism. Leveraging the lightweight Transformer model DistilBERT, we fine-tune it for toxicity detection, achieving a multi-label classification accuracy close to 93%. To further optimize 
+toxicity rating, we apply three optimization algorithms—SPSA, GA, and SA—with the best approach reaching an accuracy of approximately 70%. Our system offers a practical and efficient solution for scalable content moderation.
